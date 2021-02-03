@@ -1,1 +1,2 @@
-# This is the repository for all Akamai contributions
+# Akamai
+This is the repository for Akamai contributions
